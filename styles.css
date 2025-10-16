@@ -1,0 +1,14 @@
+li{
+    background-color: aliceblue;
+}
+
+li:hover{
+    background-color: yellow;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+li:active{
+    background-color: lightgreen;
+    font-style: italic;
+}
